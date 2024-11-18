@@ -14,8 +14,8 @@
  ### Steps 7: Review and Create IAM User
 
 ## OUTPUT
-### REG NUMBER:212223220032
-### NAME: HARSETHA J
+### REG NUMBER:212223220016
+### NAME: DAISY R
  
  ![Screenshot (64)](https://github.com/user-attachments/assets/4b80e86d-3d58-4ff9-a060-1646c8505e96)
 
